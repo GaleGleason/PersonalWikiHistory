@@ -3,7 +3,7 @@ PersonalWikiHistory
 
 Tracks all Wikipedia articles you've read and then allows meta data to work for you.
 
-Major objectives and philosophy of a wikipedia app is to allow whimsical learning and track progress of coverage of topics. Using a passive tracking system you can allow people to forget they are learning allowing for and inspiring curiosity by making wikipedia easier and more interesting to explore. 
+Major objectives and philosophy of this wikipedia app/chrome plugin is to allow whimsical learning and track the progress of coverage of topics. Using a passive tracking system you can allow people to forget they are learning allowing for and inspiring curiosity by making wikipedia easier and more interesting to explore. By tracking where you've been you can gain a sense of accomplishment, and provide real data on what you might know or want to review later. By getting a visual map of where these articles fall in their higharchy of relationship you can gain perspective of your ignorance and present knowledge. 
 
  Some features that would be nice to have;
 - A complete visual list of pages or parts of wiki pages visited with time information for each part.
